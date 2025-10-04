@@ -13,7 +13,8 @@ The solution was structured into two distinct but related ML challenges, heavily
 
 ### Prerequisites
 Bash
--- equired libraries for running submit.py --
+-- Required libraries for running submit.py --
+
 -- pip install numpy scikit-learn ---
 
 ### 1. ML-PUF Attack via Polynomial Feature Mapping
