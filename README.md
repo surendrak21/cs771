@@ -13,6 +13,7 @@ The solution was structured into two distinct but related ML challenges, heavily
 
 ### Prerequisites
 Bash
+
 -- Required libraries for running submit.py --
 
 -- pip install numpy scikit-learn ---
